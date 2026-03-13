@@ -1,0 +1,14 @@
+{
+  "name": "ai-status-plugin",
+  "version": "1.2.0",
+  "description": "Plugin widget per monitorare aggiornamenti e cambi comportamento delle AI",
+  "type": "module",
+  "scripts": {
+    "update": "node updater.js",
+    "serve": "npx serve . -p 3000"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}

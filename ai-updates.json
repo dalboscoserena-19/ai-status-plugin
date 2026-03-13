@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "lastUpdated": "2025-03-13T08:00:00.000Z",
+    "nextUpdate": "2025-03-13T14:00:00.000Z",
+    "totalItems": 12
+  },
+  "globalStatus": {
+    "level": "medium",
+    "label": "Aggiornamenti recenti — verifica consigliata",
+    "color": "#D97706"
+  },
+  "providers": [
+    { "id": "anthropic",  "name": "Claude (Anthropic)", "color": "#D97706", "logo": "🟠", "itemCount": 3 },
+    { "id": "openai",     "name": "OpenAI (GPT)",       "color": "#059669", "logo": "🟢", "itemCount": 3 },
+    { "id": "google",     "name": "Google (Gemini)",    "color": "#2563EB", "logo": "🔵", "itemCount": 2 },
+    { "id": "perplexity", "name": "Perplexity AI",      "color": "#7C3AED", "logo": "🟣", "itemCount": 2 },
+    { "id": "copilot",    "name": "Microsoft Copilot",  "color": "#0078D4", "logo": "🔷", "itemCount": 2 }
+  ],
+  "updates": [
+    {
+      "id": "anthropic-001",
+      "provider": "anthropic",
+      "providerName": "Claude (Anthropic)",
+      "providerColor": "#D97706",
+      "date": "2025-03-11",
+      "text": "Claude 3.7 Sonnet: modificato il comportamento su richieste ambigue in contesti non chiari. Le risposte possono risultare più caute rispetto alle versioni precedenti. Verificare prompt che usano istruzioni implicite.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://docs.anthropic.com/en/release-notes/overview"
+    },
+    {
+      "id": "openai-001",
+      "provider": "openai",
+      "providerName": "OpenAI (GPT)",
+      "providerColor": "#059669",
+      "date": "2025-03-09",
+      "text": "GPT-4o aggiornato alla versione 0309: cambiamenti nella struttura e nel tono delle risposte su certi domini. Consigliabile verificare l'output su prompt consolidati prima di rilasciare in produzione.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://platform.openai.com/docs/changelog"
+    },
+    {
+      "id": "anthropic-002",
+      "provider": "anthropic",
+      "providerName": "Claude (Anthropic)",
+      "providerColor": "#D97706",
+      "date": "2025-03-07",
+      "text": "API: il parametro 'max_tokens' ora segue un comportamento leggermente diverso sui modelli Haiku in contesti con system prompt lunghi. Potenziale impatto su risposte troncate.",
+      "severity": "high",
+      "severityLabel": "Breaking / Rimozione",
+      "source": "https://docs.anthropic.com/en/release-notes/overview"
+    },
+    {
+      "id": "google-001",
+      "provider": "google",
+      "providerName": "Google (Gemini)",
+      "providerColor": "#2563EB",
+      "date": "2025-03-06",
+      "text": "Gemini 1.5 Pro: migliorata la coerenza sulle risposte su contesti molto lunghi (>100k token). Nessun cambio comportamentale atteso per usi standard.",
+      "severity": "low",
+      "severityLabel": "Miglioramento",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "id": "openai-002",
+      "provider": "openai",
+      "providerName": "OpenAI (GPT)",
+      "providerColor": "#059669",
+      "date": "2025-03-04",
+      "text": "o1 e o3-mini: aggiornamento delle safety policies con effetti sull'output in contesti medici e legali. Risposte più conservative in questi domini specifici.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://platform.openai.com/docs/changelog"
+    },
+    {
+      "id": "anthropic-003",
+      "provider": "anthropic",
+      "providerName": "Claude (Anthropic)",
+      "providerColor": "#D97706",
+      "date": "2025-02-28",
+      "text": "Claude Haiku 3.5: ottimizzazioni di latenza (-15% response time medio). Nessun cambio comportamentale rilevante rispetto alla versione precedente.",
+      "severity": "low",
+      "severityLabel": "Miglioramento",
+      "source": "https://docs.anthropic.com/en/release-notes/overview"
+    },
+    {
+      "id": "google-002",
+      "provider": "google",
+      "providerName": "Google (Gemini)",
+      "providerColor": "#2563EB",
+      "date": "2025-02-25",
+      "text": "Gemini API: il modello 'gemini-pro' (legacy) viene deprecato il 15 aprile 2025. Migrare a gemini-1.5-pro o gemini-2.0-flash entro tale data per evitare interruzioni.",
+      "severity": "high",
+      "severityLabel": "Breaking / Rimozione",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "id": "openai-003",
+      "provider": "openai",
+      "providerName": "OpenAI (GPT)",
+      "providerColor": "#059669",
+      "date": "2025-02-20",
+      "text": "GPT-3.5-turbo: comunicata la data di deprecazione per il 30 giugno 2025. Tutti i progetti che usano questo modello devono pianificare la migrazione.",
+      "severity": "high",
+      "severityLabel": "Breaking / Rimozione",
+      "source": "https://platform.openai.com/docs/changelog"
+    },
+    {
+      "id": "perplexity-001",
+      "provider": "perplexity",
+      "providerName": "Perplexity AI",
+      "providerColor": "#7C3AED",
+      "date": "2025-03-08",
+      "text": "Sonar Pro aggiornato: migliorata la gestione delle citazioni e l'accuratezza delle fonti nelle risposte. Possibili variazioni nell'output su query di ricerca complesse rispetto alla versione precedente.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://docs.perplexity.ai/changelog"
+    },
+    {
+      "id": "perplexity-002",
+      "provider": "perplexity",
+      "providerName": "Perplexity AI",
+      "providerColor": "#7C3AED",
+      "date": "2025-02-18",
+      "text": "Il modello 'pplx-7b-online' è stato deprecato e rimosso dall'API. I progetti che lo usano devono migrare a sonar-small-online o sonar-medium-online entro il 1° aprile 2025.",
+      "severity": "high",
+      "severityLabel": "Breaking / Rimozione",
+      "source": "https://docs.perplexity.ai/changelog"
+    },
+    {
+      "id": "copilot-001",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2025-03-10",
+      "text": "Copilot per Microsoft 365 aggiornato con nuovi filtri contenuto più restrittivi in ambito legale e finanziario. Le risposte su questi domini potrebbero risultare più conservative rispetto alle versioni precedenti.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/whats-new"
+    },
+    {
+      "id": "copilot-002",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2025-02-27",
+      "text": "Plugin deprecati: le estensioni basate sull'architettura legacy Copilot Plugin (v1) cessano il supporto il 30 maggio 2025. Migrazione obbligatoria al nuovo framework Microsoft 365 Copilot extensibility.",
+      "severity": "high",
+      "severityLabel": "Breaking / Rimozione",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    }
+  ]
+}
