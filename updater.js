@@ -11,7 +11,7 @@
  *   node updater.js
  *
  * CRON (ogni 6 ore):
- *   0 */6 * * * /usr/bin/node /path/to/updater.js >> /var/log/ai-updater.log 2>&1
+ *   0 each6hours * * * /usr/bin/node /path/to/updater.js >> /var/log/ai-updater.log 2>&1
  *
  * GITHUB ACTIONS (alternativa gratuita, vedere README):
  *   Usa il workflow .github/workflows/update.yml incluso
