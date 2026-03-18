@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-03-18T05:40:18.533Z",
-    "nextUpdate": "2026-03-18T11:40:18.533Z",
+    "lastUpdated": "2026-03-18T08:05:17.590Z",
+    "nextUpdate": "2026-03-18T14:05:17.590Z",
     "totalItems": 30
   },
   "globalStatus": {
@@ -49,7 +49,7 @@
   ],
   "updates": [
     {
-      "id": "google-1773812417408-0",
+      "id": "google-1773821115475-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -60,7 +60,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417410-1",
+      "id": "google-1773821115477-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -71,7 +71,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417411-2",
+      "id": "google-1773821115477-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -82,7 +82,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417411-3",
+      "id": "google-1773821115478-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -93,7 +93,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417411-4",
+      "id": "google-1773821115478-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -104,7 +104,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417411-5",
+      "id": "google-1773821115478-5",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -115,7 +115,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417411-6",
+      "id": "google-1773821115478-6",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -126,7 +126,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417412-7",
+      "id": "google-1773821115478-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -137,7 +137,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417412-8",
+      "id": "google-1773821115478-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -148,7 +148,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1773812417412-9",
+      "id": "google-1773821115478-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -159,7 +159,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "perplexity-1773812417874-0",
+      "id": "perplexity-1773821116400-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -170,7 +170,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-1",
+      "id": "perplexity-1773821116400-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -181,7 +181,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-2",
+      "id": "perplexity-1773821116400-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -192,7 +192,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-3",
+      "id": "perplexity-1773821116400-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -203,7 +203,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-4",
+      "id": "perplexity-1773821116400-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -214,7 +214,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-5",
+      "id": "perplexity-1773821116401-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -225,7 +225,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-6",
+      "id": "perplexity-1773821116401-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -236,7 +236,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-7",
+      "id": "perplexity-1773821116401-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -247,7 +247,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417874-8",
+      "id": "perplexity-1773821116401-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -258,7 +258,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1773812417875-9",
+      "id": "perplexity-1773821116402-9",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -269,7 +269,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1773812418139-0",
+      "id": "copilot-1773821116826-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -280,7 +280,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418140-1",
+      "id": "copilot-1773821116826-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -291,7 +291,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418140-2",
+      "id": "copilot-1773821116826-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -302,7 +302,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418140-3",
+      "id": "copilot-1773821116826-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -313,7 +313,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418140-4",
+      "id": "copilot-1773821116826-4",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -324,7 +324,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418141-5",
+      "id": "copilot-1773821116827-5",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -335,7 +335,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418141-6",
+      "id": "copilot-1773821116827-6",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -346,7 +346,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418141-7",
+      "id": "copilot-1773821116827-7",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -357,7 +357,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418141-8",
+      "id": "copilot-1773821116827-8",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -368,7 +368,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1773812418141-9",
+      "id": "copilot-1773821116827-9",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
