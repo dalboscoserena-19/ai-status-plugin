@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-05-19T15:42:26.155Z",
-    "nextUpdate": "2026-05-19T21:42:26.155Z",
+    "lastUpdated": "2026-05-19T20:00:28.645Z",
+    "nextUpdate": "2026-05-20T02:00:28.645Z",
     "totalItems": 30
   },
   "globalStatus": {
@@ -49,7 +49,7 @@
   ],
   "updates": [
     {
-      "id": "google-1779205343320-0",
+      "id": "google-1779220826674-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -60,7 +60,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343320-1",
+      "id": "google-1779220826675-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -71,7 +71,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343321-2",
+      "id": "google-1779220826676-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -82,7 +82,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343321-3",
+      "id": "google-1779220826676-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -93,7 +93,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343337-4",
+      "id": "google-1779220826692-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -104,7 +104,29 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343337-5",
+      "id": "google-1779220826692-5",
+      "provider": "google",
+      "providerName": "Google (Gemini)",
+      "providerColor": "#2563EB",
+      "date": "2026-05-19",
+      "text": "Released gemini-3.5-flash, the generally available (GA) version of Gemini 3.5 Flash, our most intelligent model for sustained frontier performance on agentic and coding tasks.",
+      "severity": "info",
+      "severityLabel": "Info",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "id": "google-1779220826692-6",
+      "provider": "google",
+      "providerName": "Google (Gemini)",
+      "providerColor": "#2563EB",
+      "date": "2026-05-19",
+      "text": "Launched the Managed Agents in the Gemini API in public preview. This enables developers to build and deploy autonomous, stateful agents that run in secure, isolated Google-hosted Linux sandbox environments. To learn more, see the Agents overview page and the Quickstart.",
+      "severity": "info",
+      "severityLabel": "Info",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "id": "google-1779220826693-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -115,7 +137,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343337-6",
+      "id": "google-1779220826693-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -126,7 +148,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343337-7",
+      "id": "google-1779220826693-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -137,29 +159,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1779205343337-8",
-      "provider": "google",
-      "providerName": "Google (Gemini)",
-      "providerColor": "#2563EB",
-      "date": "2026-05-19",
-      "text": "Updated File Search to support multimodal search. You can now natively embed and search through images using the gemini-embedding-2 model. Grounding metadata now includes media_id for visual citations and page_numbers that indicate where information is found. To learn more, see the File Search guide",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://ai.google.dev/gemini-api/docs/changelog"
-    },
-    {
-      "id": "google-1779205343337-9",
-      "provider": "google",
-      "providerName": "Google (Gemini)",
-      "providerColor": "#2563EB",
-      "date": "2026-05-19",
-      "text": "Launched event-driven Webhooks support in the Gemini API to replace polling workflows for the Batch API and long-running operations.",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://ai.google.dev/gemini-api/docs/changelog"
-    },
-    {
-      "id": "perplexity-1779205343977-0",
+      "id": "perplexity-1779220827275-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -170,7 +170,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-1",
+      "id": "perplexity-1779220827276-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -181,7 +181,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-2",
+      "id": "perplexity-1779220827276-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -192,7 +192,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-3",
+      "id": "perplexity-1779220827276-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -203,7 +203,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-4",
+      "id": "perplexity-1779220827276-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -214,7 +214,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-5",
+      "id": "perplexity-1779220827276-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -225,7 +225,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-6",
+      "id": "perplexity-1779220827276-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -236,7 +236,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343978-7",
+      "id": "perplexity-1779220827276-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -247,7 +247,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343979-8",
+      "id": "perplexity-1779220827276-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -258,7 +258,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1779205343979-9",
+      "id": "perplexity-1779220827277-9",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -269,7 +269,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1779205345238-0",
+      "id": "copilot-1779220827855-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -280,7 +280,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345238-1",
+      "id": "copilot-1779220827855-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -291,7 +291,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345238-2",
+      "id": "copilot-1779220827855-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -302,7 +302,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345238-3",
+      "id": "copilot-1779220827855-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -313,7 +313,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345238-4",
+      "id": "copilot-1779220827855-4",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -324,7 +324,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345239-5",
+      "id": "copilot-1779220827855-5",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -335,7 +335,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345239-6",
+      "id": "copilot-1779220827855-6",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -346,7 +346,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345239-7",
+      "id": "copilot-1779220827856-7",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -357,7 +357,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345239-8",
+      "id": "copilot-1779220827856-8",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -368,7 +368,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1779205345239-9",
+      "id": "copilot-1779220827856-9",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
