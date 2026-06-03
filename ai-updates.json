@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-06-03T17:06:17.851Z",
-    "nextUpdate": "2026-06-03T23:06:17.851Z",
+    "lastUpdated": "2026-06-03T21:25:28.021Z",
+    "nextUpdate": "2026-06-04T03:25:28.021Z",
     "totalItems": 40
   },
   "globalStatus": {
@@ -49,7 +49,18 @@
   ],
   "updates": [
     {
-      "id": "openai-1780506376058-0",
+      "id": "openai-1780521925694-0",
+      "provider": "openai",
+      "providerName": "OpenAI (GPT)",
+      "providerColor": "#059669",
+      "date": "2026-06-03",
+      "text": "Deprecated reusable prompt objects, the Evals platform, and Agent Builder. See the deprecations page for shutdown timelines and migration guidance.",
+      "severity": "high",
+      "severityLabel": "Breaking / Rimozione",
+      "source": "https://platform.openai.com/docs/changelog"
+    },
+    {
+      "id": "openai-1780521925695-1",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -60,7 +71,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376058-1",
+      "id": "openai-1780521925696-2",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -71,7 +82,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376058-2",
+      "id": "openai-1780521925696-3",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -82,7 +93,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376059-3",
+      "id": "openai-1780521925697-4",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -93,7 +104,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376059-4",
+      "id": "openai-1780521925697-5",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -104,7 +115,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376059-5",
+      "id": "openai-1780521925697-6",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -115,7 +126,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376059-6",
+      "id": "openai-1780521925697-7",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -126,7 +137,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376059-7",
+      "id": "openai-1780521925697-8",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -137,7 +148,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376060-8",
+      "id": "openai-1780521925697-9",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -148,18 +159,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1780506376060-9",
-      "provider": "openai",
-      "providerName": "OpenAI (GPT)",
-      "providerColor": "#059669",
-      "date": "2026-06-03",
-      "text": "Updated the Realtime and audio guide, added a dedicated Realtime translation guide, refreshed Realtime transcription for streaming transcripts, and moved realtime prompting guidance into Using realtime models.",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://platform.openai.com/docs/changelog"
-    },
-    {
-      "id": "google-1780506376406-0",
+      "id": "google-1780521926121-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -170,7 +170,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376406-1",
+      "id": "google-1780521926121-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -181,7 +181,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376407-2",
+      "id": "google-1780521926121-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -192,7 +192,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376407-3",
+      "id": "google-1780521926121-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -203,7 +203,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376409-4",
+      "id": "google-1780521926124-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -214,7 +214,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376409-5",
+      "id": "google-1780521926124-5",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -225,7 +225,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376409-6",
+      "id": "google-1780521926124-6",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -236,7 +236,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376409-7",
+      "id": "google-1780521926124-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -247,7 +247,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376409-8",
+      "id": "google-1780521926124-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -258,7 +258,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1780506376409-9",
+      "id": "google-1780521926124-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -269,18 +269,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "perplexity-1780506376806-0",
-      "provider": "perplexity",
-      "providerName": "Perplexity AI",
-      "providerColor": "#7C3AED",
-      "date": "2026-06-03",
-      "text": "Fetch the complete documentation index at: https://docs.perplexity.ai/llms.txt",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://docs.perplexity.ai/changelog"
-    },
-    {
-      "id": "perplexity-1780506376807-1",
+      "id": "perplexity-1780521926642-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -291,7 +280,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376807-2",
+      "id": "perplexity-1780521926642-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -302,7 +291,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376807-3",
+      "id": "perplexity-1780521926642-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -313,7 +302,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376807-4",
+      "id": "perplexity-1780521926642-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -324,7 +313,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376807-5",
+      "id": "perplexity-1780521926642-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -335,7 +324,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376807-6",
+      "id": "perplexity-1780521926642-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -346,7 +335,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376807-7",
+      "id": "perplexity-1780521926642-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -357,7 +346,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376808-8",
+      "id": "perplexity-1780521926642-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -368,7 +357,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1780506376808-9",
+      "id": "perplexity-1780521926643-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -379,7 +368,18 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1780506377196-0",
+      "id": "perplexity-1780521926643-9",
+      "provider": "perplexity",
+      "providerName": "Perplexity AI",
+      "providerColor": "#7C3AED",
+      "date": "2026-06-03",
+      "text": "Integrating search results into your own applications",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://docs.perplexity.ai/changelog"
+    },
+    {
+      "id": "copilot-1780521927368-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -390,7 +390,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377196-1",
+      "id": "copilot-1780521927368-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -401,89 +401,89 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377196-2",
+      "id": "copilot-1780521927369-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-06-03",
-      "text": "Implicit Grounding in Outlook Microsoft 365 Copilot Chat [Windows, Web]",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1780506377197-3",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-06-03",
-      "text": "Users will be able to add emails and text from email threads directly into their prompt context in Microsoft 365 Copilot Chat through simple interactions in Outlook.",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1780506377197-4",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-06-03",
-      "text": "What changed: Developers can now configure icons, visibility settings, connection metadata, property descriptions, and semantic labels for custom connectors. Previously, these elements were limited or unavailable, which reduced clarity and consistency across Copilot experiences.",
+      "text": "Organizational Messages Usage‑based targeting is now generally available in the Microsoft 365 admin center! [Web]",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377197-5",
+      "id": "copilot-1780521927369-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-06-03",
-      "text": "Why: This change helps users work more efficiently by reducing the steps needed to reference email content in Copilot Chat. It supports smoother workflows and helps users get more accurate, context aware responses.",
+      "text": "Organizational Messages now supports usage‑based targeting in addition to existing group‑based targeting capabilities. This enables admins to deliver Organizational Messages based on real user behavior and engagement patterns rather than static group membership.",
       "severity": "medium",
       "severityLabel": "Cambio comportamento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377197-6",
+      "id": "copilot-1780521927369-4",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-06-03",
-      "text": "Select an email in Outlook and add it to your Copilot Chat prompt.",
+      "text": "What changed: Admins can now target Organizational Messages using dynamic usage behaviors through Usage‑based targeting. This allows IT admins to drive Microsoft 365 Copilot adoption by reaching users based on actual product usage instead of relying only on pre‑configured groups or distribution list",
       "severity": "medium",
       "severityLabel": "Cambio comportamento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377197-7",
+      "id": "copilot-1780521927369-5",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-06-03",
-      "text": "Highlight a section of text in an email and insert it into your Copilot Chat conversation.",
+      "text": "Inactive Copilot Users for the past 28 days",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377197-8",
+      "id": "copilot-1780521927369-6",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-06-03",
-      "text": "Use Copilot Chat to summarize or analyze the added email content.",
+      "text": "Inactive Copilot Users in Teams for the past 30 days",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1780506377197-9",
+      "id": "copilot-1780521927369-7",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-06-03",
-      "text": "Business impact: Improves workflow efficiency by reducing manual steps and enabling more seamless use of email content in Copilot Chat.",
+      "text": "Business impact: Enables more precise and effective Copilot adoption campaigns by targeting users based on actual behavior, helping organizations improve engagement and maximize value from Copilot investments.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1780521927369-8",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-06-03",
+      "text": "Personal impact: Users receive more relevant and timely communications tailored to their usage patterns, helping them better discover and adopt Microsoft 365 Copilot capabilities.",
+      "severity": "info",
+      "severityLabel": "Info",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1780521927369-9",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-06-03",
+      "text": "Organizational Messages in the Microsoft 365 Admin Center now supports email delivery in addition to other surfaces like the Windows Taskbar, Windows Spotlight, Windows Notification Center, and Teams Popovers. This gives admins another familiar communication channel while keeping messaging within on",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
