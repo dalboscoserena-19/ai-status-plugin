@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-06-24T14:48:39.007Z",
-    "nextUpdate": "2026-06-24T20:48:39.007Z",
+    "lastUpdated": "2026-06-24T19:58:11.051Z",
+    "nextUpdate": "2026-06-25T01:58:11.051Z",
     "totalItems": 40
   },
   "globalStatus": {
@@ -49,7 +49,29 @@
   ],
   "updates": [
     {
-      "id": "openai-1782312517332-0",
+      "id": "openai-1782331088093-0",
+      "provider": "openai",
+      "providerName": "OpenAI (GPT)",
+      "providerColor": "#059669",
+      "date": "2026-06-24",
+      "text": "Updated the chat-latest snapshot, which points to the latest Instant model currently used in ChatGPT. We recommend leveraging GPT-5.5 for production API usage, but feel free to use this model to test the latest improvements for chat use cases. The underlying model snapshot will be regularly updated.",
+      "severity": "info",
+      "severityLabel": "Info",
+      "source": "https://platform.openai.com/docs/changelog"
+    },
+    {
+      "id": "openai-1782331088094-1",
+      "provider": "openai",
+      "providerName": "OpenAI (GPT)",
+      "providerColor": "#059669",
+      "date": "2026-06-24",
+      "text": "Released the Safety Usage Dashboard on the OpenAI API platform. The Safety dashboard shows blocked Responses requests based on safety_identifier values sent on requests to identify end users. Visit the Safety dashboard.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://platform.openai.com/docs/changelog"
+    },
+    {
+      "id": "openai-1782331088094-2",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -60,7 +82,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517333-1",
+      "id": "openai-1782331088095-3",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -71,7 +93,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517334-2",
+      "id": "openai-1782331088095-4",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -82,7 +104,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517334-3",
+      "id": "openai-1782331088095-5",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -93,7 +115,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517335-4",
+      "id": "openai-1782331088095-6",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -104,7 +126,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517335-5",
+      "id": "openai-1782331088095-7",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -115,7 +137,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517335-6",
+      "id": "openai-1782331088095-8",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -126,7 +148,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517335-7",
+      "id": "openai-1782331088096-9",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -137,29 +159,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1782312517335-8",
-      "provider": "openai",
-      "providerName": "OpenAI (GPT)",
-      "providerColor": "#059669",
-      "date": "2026-06-24",
-      "text": "Added return_token_budget for the Responses API web search tool. Use it to opt in to longer GPT-5+ reasoning web search runs for high-effort research and evaluation workloads.",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
-      "source": "https://platform.openai.com/docs/changelog"
-    },
-    {
-      "id": "openai-1782312517335-9",
-      "provider": "openai",
-      "providerName": "OpenAI (GPT)",
-      "providerColor": "#059669",
-      "date": "2026-06-24",
-      "text": "Released GPT-Realtime-2, a new realtime voice model with configurable reasoning for speech-to-speech agents, along with GPT-Realtime-Translate for streaming speech translation and GPT-Realtime-Whisper for streaming speech-to-text.",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://platform.openai.com/docs/changelog"
-    },
-    {
-      "id": "google-1782312517621-0",
+      "id": "google-1782331089122-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -170,7 +170,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517621-1",
+      "id": "google-1782331089122-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -181,7 +181,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517621-2",
+      "id": "google-1782331089122-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -192,7 +192,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517621-3",
+      "id": "google-1782331089122-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -203,7 +203,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517623-4",
+      "id": "google-1782331089124-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -214,7 +214,18 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517623-5",
+      "id": "google-1782331089125-5",
+      "provider": "google",
+      "providerName": "Google (Gemini)",
+      "providerColor": "#2563EB",
+      "date": "2026-06-24",
+      "text": "Computer Use: Launched public preview support for the Computer Use tool in Gemini 3.5 Flash. This release includes simplified actions with intents, built-in support for browser, mobile, and desktop environments, configurable safety policies, and advanced prompt injection detection.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "id": "google-1782331089125-6",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -225,7 +236,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517623-6",
+      "id": "google-1782331089125-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -236,7 +247,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517624-7",
+      "id": "google-1782331089125-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -247,7 +258,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517624-8",
+      "id": "google-1782331089125-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -258,18 +269,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1782312517624-9",
-      "provider": "google",
-      "providerName": "Google (Gemini)",
-      "providerColor": "#2563EB",
-      "date": "2026-06-24",
-      "text": "To migrate your code to newer stable or preview endpoints, refer to the Gemini deprecations page.",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://ai.google.dev/gemini-api/docs/changelog"
-    },
-    {
-      "id": "perplexity-1782312518109-0",
+      "id": "perplexity-1782331089494-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -280,7 +280,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-1",
+      "id": "perplexity-1782331089495-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -291,7 +291,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-2",
+      "id": "perplexity-1782331089495-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -302,7 +302,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-3",
+      "id": "perplexity-1782331089495-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -313,7 +313,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-4",
+      "id": "perplexity-1782331089495-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -324,7 +324,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-5",
+      "id": "perplexity-1782331089495-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -335,7 +335,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-6",
+      "id": "perplexity-1782331089495-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -346,7 +346,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518109-7",
+      "id": "perplexity-1782331089495-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -357,7 +357,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518110-8",
+      "id": "perplexity-1782331089495-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -368,7 +368,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1782312518110-9",
+      "id": "perplexity-1782331089495-9",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -379,7 +379,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1782312518427-0",
+      "id": "copilot-1782331090313-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -390,7 +390,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518428-1",
+      "id": "copilot-1782331090313-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -401,7 +401,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518428-2",
+      "id": "copilot-1782331090314-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -412,7 +412,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518428-3",
+      "id": "copilot-1782331090314-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -423,7 +423,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518428-4",
+      "id": "copilot-1782331090314-4",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -434,7 +434,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518428-5",
+      "id": "copilot-1782331090314-5",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -445,7 +445,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518428-6",
+      "id": "copilot-1782331090314-6",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -456,7 +456,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518429-7",
+      "id": "copilot-1782331090314-7",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -467,7 +467,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518429-8",
+      "id": "copilot-1782331090314-8",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -478,7 +478,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1782312518429-9",
+      "id": "copilot-1782331090314-9",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
