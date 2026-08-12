@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-08-12T02:32:22.381Z",
-    "nextUpdate": "2026-08-12T08:32:22.381Z",
+    "lastUpdated": "2026-08-12T07:42:53.823Z",
+    "nextUpdate": "2026-08-12T13:42:53.823Z",
     "totalItems": 40
   },
   "globalStatus": {
@@ -49,7 +49,7 @@
   ],
   "updates": [
     {
-      "id": "openai-1786501939872-0",
+      "id": "openai-1786520572148-0",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -60,7 +60,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939873-1",
+      "id": "openai-1786520572148-1",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -71,7 +71,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939873-2",
+      "id": "openai-1786520572148-2",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -82,7 +82,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939873-3",
+      "id": "openai-1786520572149-3",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -93,7 +93,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939874-4",
+      "id": "openai-1786520572149-4",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -104,7 +104,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939874-5",
+      "id": "openai-1786520572149-5",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -115,7 +115,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939875-6",
+      "id": "openai-1786520572150-6",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -126,7 +126,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939875-7",
+      "id": "openai-1786520572150-7",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -137,7 +137,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939875-8",
+      "id": "openai-1786520572150-8",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -148,7 +148,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1786501939875-9",
+      "id": "openai-1786520572150-9",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -159,7 +159,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "google-1786501940326-0",
+      "id": "google-1786520572472-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -170,7 +170,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940326-1",
+      "id": "google-1786520572472-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -181,7 +181,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940326-2",
+      "id": "google-1786520572473-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -192,7 +192,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940326-3",
+      "id": "google-1786520572473-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -203,7 +203,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940329-4",
+      "id": "google-1786520572475-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -214,7 +214,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940329-5",
+      "id": "google-1786520572476-5",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -225,7 +225,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940329-6",
+      "id": "google-1786520572476-6",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -236,7 +236,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940329-7",
+      "id": "google-1786520572476-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -247,7 +247,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940329-8",
+      "id": "google-1786520572476-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -258,7 +258,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1786501940329-9",
+      "id": "google-1786520572476-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -269,7 +269,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "perplexity-1786501941045-0",
+      "id": "perplexity-1786520572894-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -280,7 +280,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-1",
+      "id": "perplexity-1786520572894-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -291,7 +291,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-2",
+      "id": "perplexity-1786520572894-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -302,7 +302,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-3",
+      "id": "perplexity-1786520572894-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -313,7 +313,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-4",
+      "id": "perplexity-1786520572894-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -324,7 +324,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-5",
+      "id": "perplexity-1786520572894-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -335,7 +335,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-6",
+      "id": "perplexity-1786520572894-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -346,7 +346,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941045-7",
+      "id": "perplexity-1786520572894-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -357,7 +357,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941046-8",
+      "id": "perplexity-1786520572895-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -368,7 +368,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1786501941046-9",
+      "id": "perplexity-1786520572895-9",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -379,7 +379,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1786501941602-0",
+      "id": "copilot-1786520573422-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -390,7 +390,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1786501941602-1",
+      "id": "copilot-1786520573422-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -401,89 +401,89 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1786501941603-2",
+      "id": "copilot-1786520573423-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-08-12",
-      "text": "Surface rich images inline within responses [Windows, Web]",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1786501941603-3",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-08-12",
-      "text": "Copilot now displays rich images from files and meetings directly within responses to improve comprehension.",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1786501941603-4",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-08-12",
-      "text": "What changed: Previously, Copilot responses included text only. Now, it surfaces relevant images inline from files and meetings to provide visual context. This enhancement supports richer content formats while maintaining data security and compliance with Microsoft 365 policies.",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1786501941603-5",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-08-12",
-      "text": "Why: Visual information helps users understand complex content faster and reduces the need to switch between apps or documents.",
+      "text": "Copilot connectors now run content crawl and identity crawl in parallel, making ingested content available to users faster than before.",
       "severity": "low",
       "severityLabel": "Miglioramento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1786501941603-6",
+      "id": "copilot-1786520573423-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-08-12",
-      "text": "Ask Copilot a question related to your meeting notes or documents.",
+      "text": "What changed: Previously, content crawl and identity crawl executed sequentially, causing delays before content became accessible in Copilot. Now, both crawls run in parallel, reducing total processing time. This change improves content freshness and availability without compromising security or per",
+      "severity": "low",
+      "severityLabel": "Miglioramento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1786520573423-4",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-08-12",
+      "text": "Faster ingestion of new and updated content",
+      "severity": "low",
+      "severityLabel": "Miglioramento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1786520573423-5",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-08-12",
+      "text": "Observe that content appears in Copilot results sooner than before.",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1786501941603-7",
+      "id": "copilot-1786520573423-6",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-08-12",
-      "text": "Review the inline images that appear alongside the text response.",
+      "text": "Why this matters: Faster content availability helps users access the latest information promptly, supporting timely decision-making.",
       "severity": "medium",
       "severityLabel": "Cambio comportamento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1786501941603-8",
+      "id": "copilot-1786520573423-7",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-08-12",
-      "text": "Why this matters: Including images directly in responses helps users grasp information quickly and reduces context switching.",
-      "severity": "medium",
-      "severityLabel": "Cambio comportamento",
+      "text": "Business impact: Teams benefit from reduced latency in content updates, improving collaboration and information flow.",
+      "severity": "low",
+      "severityLabel": "Miglioramento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1786501941603-9",
+      "id": "copilot-1786520573423-8",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-08-12",
-      "text": "Business impact: Teams can collaborate more effectively by accessing visual content without leaving the Copilot interface.",
+      "text": "Learn: Deploy the ServiceNow Knowledge Copilot connector",
+      "severity": "info",
+      "severityLabel": "Info",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1786520573424-9",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-08-12",
+      "text": "Access knowledge articles or catalog items through Copilot connectors.",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
