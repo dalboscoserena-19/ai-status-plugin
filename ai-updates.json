@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-09-06T15:21:23.891Z",
-    "nextUpdate": "2026-09-06T21:21:23.891Z",
+    "lastUpdated": "2026-09-06T20:18:22.018Z",
+    "nextUpdate": "2026-09-07T02:18:22.018Z",
     "totalItems": 40
   },
   "globalStatus": {
@@ -49,7 +49,7 @@
   ],
   "updates": [
     {
-      "id": "openai-1788708082291-0",
+      "id": "openai-1788725900498-0",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -60,7 +60,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082292-1",
+      "id": "openai-1788725900498-1",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -71,7 +71,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082293-2",
+      "id": "openai-1788725900499-2",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -82,7 +82,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082293-3",
+      "id": "openai-1788725900499-3",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -93,7 +93,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082293-4",
+      "id": "openai-1788725900499-4",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -104,7 +104,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082294-5",
+      "id": "openai-1788725900499-5",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -115,7 +115,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082294-6",
+      "id": "openai-1788725900500-6",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -126,7 +126,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082294-7",
+      "id": "openai-1788725900500-7",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -137,7 +137,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082294-8",
+      "id": "openai-1788725900500-8",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -148,7 +148,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1788708082294-9",
+      "id": "openai-1788725900500-9",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -159,7 +159,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "google-1788708082605-0",
+      "id": "google-1788725901061-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -170,7 +170,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082605-1",
+      "id": "google-1788725901061-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -181,7 +181,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082605-2",
+      "id": "google-1788725901062-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -192,7 +192,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082605-3",
+      "id": "google-1788725901062-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -203,7 +203,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082608-4",
+      "id": "google-1788725901063-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -214,7 +214,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082608-5",
+      "id": "google-1788725901063-5",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -225,7 +225,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082608-6",
+      "id": "google-1788725901064-6",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -236,7 +236,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082608-7",
+      "id": "google-1788725901064-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -247,7 +247,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082608-8",
+      "id": "google-1788725901064-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -258,7 +258,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1788708082608-9",
+      "id": "google-1788725901064-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -269,7 +269,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "perplexity-1788708082951-0",
+      "id": "perplexity-1788725901349-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -280,7 +280,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-1",
+      "id": "perplexity-1788725901349-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -291,7 +291,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-2",
+      "id": "perplexity-1788725901349-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -302,7 +302,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-3",
+      "id": "perplexity-1788725901350-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -313,7 +313,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-4",
+      "id": "perplexity-1788725901350-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -324,7 +324,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-5",
+      "id": "perplexity-1788725901350-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -335,7 +335,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-6",
+      "id": "perplexity-1788725901350-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -346,7 +346,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-7",
+      "id": "perplexity-1788725901350-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -357,7 +357,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-8",
+      "id": "perplexity-1788725901351-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -368,7 +368,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1788708082951-9",
+      "id": "perplexity-1788725901351-9",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -379,7 +379,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1788708083383-0",
+      "id": "copilot-1788725901660-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -390,7 +390,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083383-1",
+      "id": "copilot-1788725901660-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -401,7 +401,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083383-2",
+      "id": "copilot-1788725901660-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -412,7 +412,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083383-3",
+      "id": "copilot-1788725901660-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -423,7 +423,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083383-4",
+      "id": "copilot-1788725901660-4",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -434,7 +434,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083383-5",
+      "id": "copilot-1788725901660-5",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -445,7 +445,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083383-6",
+      "id": "copilot-1788725901660-6",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -456,7 +456,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083384-7",
+      "id": "copilot-1788725901661-7",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -467,7 +467,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083384-8",
+      "id": "copilot-1788725901661-8",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -478,7 +478,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1788708083384-9",
+      "id": "copilot-1788725901661-9",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
