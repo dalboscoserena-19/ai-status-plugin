@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "1.0",
-    "lastUpdated": "2026-09-24T16:59:51.344Z",
-    "nextUpdate": "2026-09-24T22:59:51.344Z",
+    "lastUpdated": "2026-09-24T21:25:24.909Z",
+    "nextUpdate": "2026-09-25T03:25:24.909Z",
     "totalItems": 40
   },
   "globalStatus": {
@@ -49,7 +49,7 @@
   ],
   "updates": [
     {
-      "id": "openai-1790269189778-0",
+      "id": "openai-1790285123072-0",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -60,7 +60,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189778-1",
+      "id": "openai-1790285123073-1",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -71,7 +71,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189779-2",
+      "id": "openai-1790285123073-2",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -82,7 +82,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189780-3",
+      "id": "openai-1790285123073-3",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -93,7 +93,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189780-4",
+      "id": "openai-1790285123073-4",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -104,7 +104,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189780-5",
+      "id": "openai-1790285123073-5",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -115,7 +115,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189781-6",
+      "id": "openai-1790285123074-6",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -126,7 +126,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189781-7",
+      "id": "openai-1790285123074-7",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -137,7 +137,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189781-8",
+      "id": "openai-1790285123074-8",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -148,7 +148,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "openai-1790269189781-9",
+      "id": "openai-1790285123074-9",
       "provider": "openai",
       "providerName": "OpenAI (GPT)",
       "providerColor": "#059669",
@@ -159,7 +159,7 @@
       "source": "https://platform.openai.com/docs/changelog"
     },
     {
-      "id": "google-1790269190118-0",
+      "id": "google-1790285123464-0",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -170,7 +170,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190120-1",
+      "id": "google-1790285123465-1",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -181,7 +181,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190120-2",
+      "id": "google-1790285123465-2",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -192,7 +192,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190120-3",
+      "id": "google-1790285123466-3",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -203,7 +203,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190121-4",
+      "id": "google-1790285123466-4",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -214,7 +214,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190123-5",
+      "id": "google-1790285123468-5",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -225,7 +225,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190123-6",
+      "id": "google-1790285123468-6",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -236,7 +236,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190124-7",
+      "id": "google-1790285123468-7",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -247,7 +247,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190124-8",
+      "id": "google-1790285123468-8",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -258,7 +258,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "google-1790269190124-9",
+      "id": "google-1790285123468-9",
       "provider": "google",
       "providerName": "Google (Gemini)",
       "providerColor": "#2563EB",
@@ -269,7 +269,7 @@
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
     },
     {
-      "id": "perplexity-1790269190504-0",
+      "id": "perplexity-1790285124009-0",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -280,7 +280,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190504-1",
+      "id": "perplexity-1790285124009-1",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -291,7 +291,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190504-2",
+      "id": "perplexity-1790285124009-2",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -302,7 +302,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190504-3",
+      "id": "perplexity-1790285124009-3",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -313,7 +313,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190504-4",
+      "id": "perplexity-1790285124009-4",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -324,7 +324,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190505-5",
+      "id": "perplexity-1790285124009-5",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -335,7 +335,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190505-6",
+      "id": "perplexity-1790285124009-6",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -346,7 +346,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190505-7",
+      "id": "perplexity-1790285124010-7",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -357,7 +357,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190505-8",
+      "id": "perplexity-1790285124010-8",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -368,7 +368,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "perplexity-1790269190505-9",
+      "id": "perplexity-1790285124010-9",
       "provider": "perplexity",
       "providerName": "Perplexity AI",
       "providerColor": "#7C3AED",
@@ -379,7 +379,7 @@
       "source": "https://docs.perplexity.ai/changelog"
     },
     {
-      "id": "copilot-1790269190766-0",
+      "id": "copilot-1790285124475-0",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -390,7 +390,7 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1790269190766-1",
+      "id": "copilot-1790285124475-1",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
@@ -401,91 +401,91 @@
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1790269190766-2",
+      "id": "copilot-1790285124475-2",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-09-24",
-      "text": "Use Python when Editing with Copilot in Excel [Windows, Mac, Web]",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1790269190766-3",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-09-24",
-      "text": "Edit with Copilot helps you work with Python in Excel by executing Python code for advanced analysis, automation, and data transformation with results outputted directly in your workbook.",
+      "text": "Navigate to your workbook changes directly from the Copilot chat pane response [Windows, Web, Mac]",
       "severity": "medium",
       "severityLabel": "Cambio comportamento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1790269190766-4",
+      "id": "copilot-1790285124475-3",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-09-24",
-      "text": "What changed: You can now use Edit with Copilot to perform advanced data analysis (statistics, simulations, advanced visualizations etc.) with your workbook data. Existing security and execution controls continue to help manage how code runs.",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1790269190767-5",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-09-24",
-      "text": "Why: Python is widely used for data analysis, visualization, and automation. Bringing Copilot-assisted Python editing into Excel helps users move from intent to working analysis faster without switching tools.",
-      "severity": "low",
-      "severityLabel": "Miglioramento",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1790269190767-6",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-09-24",
-      "text": "Ask Copilot to complete a task like summarizing trends, cleaning data, or creating a visualization with Python.",
-      "severity": "info",
-      "severityLabel": "Info",
-      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
-    },
-    {
-      "id": "copilot-1790269190767-7",
-      "provider": "copilot",
-      "providerName": "Microsoft Copilot",
-      "providerColor": "#0078D4",
-      "date": "2026-09-24",
-      "text": "Review the output and inspect the results in Excel.",
+      "text": "In Copilot in Excel, the response contains links to highlight where changes are made in your workbook. Navigate directly to new sheets, tables, ranges, and objects like charts and shapes.",
       "severity": "medium",
       "severityLabel": "Cambio comportamento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1790269190767-8",
+      "id": "copilot-1790285124475-4",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-09-24",
-      "text": "Why this matters: This makes advanced analysis more approachable by pairing Python’s flexibility with Copilot’s assistance and Excel’s familiar workspace.",
+      "text": "What changed: In the Copilot chat response, there now is a link you can click that will take you directly to changes in the workbook. Previously, you would need to locate the change in the response and navigate in the sheet on your own.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1790285124475-5",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-09-24",
+      "text": "Why: We want you to understand where copilot made edits and connect you to them directly from the chat response. This will help build confidence in the changes and allow you to review while you're reading the response in the chat pane.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1790285124475-6",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-09-24",
+      "text": "Send a prompt to Copilot where the workbook is modified.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1790285124475-7",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-09-24",
+      "text": "The chat response will show the changes in a different format with a highlight to indicate a link you can click for navigation. New Sheets, tables, ranges, and objects will be highlighted.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
+      "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
+    },
+    {
+      "id": "copilot-1790285124475-8",
+      "provider": "copilot",
+      "providerName": "Microsoft Copilot",
+      "providerColor": "#0078D4",
+      "date": "2026-09-24",
+      "text": "Why this matters: The feature allows quick review of document changes made by Copilot, increasing transparency of the edits.",
       "severity": "info",
       "severityLabel": "Info",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     },
     {
-      "id": "copilot-1790269190767-9",
+      "id": "copilot-1790285124476-9",
       "provider": "copilot",
       "providerName": "Microsoft Copilot",
       "providerColor": "#0078D4",
       "date": "2026-09-24",
-      "text": "Personal impact: You can complete more advanced data tasks in Excel with Copilot’s help.",
-      "severity": "info",
-      "severityLabel": "Info",
+      "text": "Business impact: Teams can understand changes made while reading the response from Copilot and quickly navigate to those places for review.",
+      "severity": "medium",
+      "severityLabel": "Cambio comportamento",
       "source": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes"
     }
   ]
